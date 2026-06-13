@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Island AI",
+  "description": "Full edition Dynamic Island with deep customization, multitasking, and Gemini AI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
